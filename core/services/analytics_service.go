@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"subtree-example/interfaces"
+	"open-core/interfaces"
 )
 
 // CoreAnalyticsService provides basic analytics for open source

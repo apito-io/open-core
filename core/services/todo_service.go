@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"open-core/interfaces"
-	"subtree-example/core/models"
+	"open-core/interfaces"
 )
 
 // CoreTodoService implements the core TodoService interface

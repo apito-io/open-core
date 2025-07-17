@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"subtree-example/interfaces"
+	"open-core/interfaces"
 )
 
 // InMemoryTodoStore implements a simple in-memory store for todos
